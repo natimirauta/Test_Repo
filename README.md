@@ -1,4 +1,2 @@
-# This repo is for vim configuration
-...
-+ Yeah
-+ Aight
+# This repo is for vim config and scripts
+~~Windows stinks~~
